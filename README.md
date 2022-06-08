@@ -1,10 +1,10 @@
-|P006750|ཁུང་ཙིའི་གསུང་སྒྲོས། 
+|I99960F40|ཁུང་ཙིའི་གསུང་སྒྲོས། 
 | --- | --- 
 |Alternative Title |
 |Author| མགོ་ལོག་རྣམ་རྒྱལ།
 |BDRC ID | W1AC448
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P006750)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P006750/releases/download/v2/khung_tsi_sungdro_plain_P006750.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P006750/releases/download/v2/khung_tsi_sungdro_pages_P006750.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I99960F40)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I99960F40/releases/download/v2/khung_tsi_sungdro_plain_I99960F40.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I99960F40/releases/download/v2/khung_tsi_sungdro_pages_I99960F40.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1AC448)
